@@ -1,4 +1,4 @@
-# *Exploratory-Data-Analysis*
+      # *Exploratory-Data-Analysis*
 
 
 
@@ -8,7 +8,7 @@
 
 # Part 1: Data cleaning
 
-●	Write a function called data_cleaning() which, when called, would perform the following activity:
+●	A function called data_cleaning() which, when called, would perform the following activity:
 
 1.	Create a column at the end, named “inc/dec percentage”, which would give the growth/reduction percentage in numbers of level 1 vs level 4 columns.
 Like, (“Level 1” – “Level 4”) / “Level 1” * 100
@@ -22,7 +22,7 @@ Like, (“Level 1” – “Level 4”) / “Level 1” * 100
 
 # Part 2: Descriptive statistics
 
-●	Write a function called descriptive_stats(‘Year’, ‘Month’ , ‘Laptop/Desktop’ , ‘Type_of_Customers?’ , ‘Coming from’) which, when called, would perform the following activity:
+●	A function called descriptive_stats(‘Year’, ‘Month’ , ‘Laptop/Desktop’ , ‘Type_of_Customers?’ , ‘Coming from’) which, when called, would perform the following activity:
 
 1.	Gives the minimum values present in all the level-columns. (Level 1, 2, 3, 4)
 
@@ -37,7 +37,7 @@ Like, (“Level 1” – “Level 4”) / “Level 1” * 100
 
 # Part 3: Prescriptive statistics
 
-●	The marketing manager has asked you the following questions, please provide the answers along with summarized data supporting your answer.
+●	The marketing manager has asked the following questions, please provide the answers along with summarized data supporting your answer.
 
 1.	What are the top 3 “Place_in_India”  on the basis of column “Level 4” for the year 2020 and 2022 separately ?
 
@@ -50,11 +50,11 @@ Like, (“Level 1” – “Level 4”) / “Level 1” * 100
 5.	Which place in India is having least number of existing customers?
 
 
-# Part 4: Simple Machine learning questions
+# Part 4: Answering simple Machine Learning questions
 
-●	Write a function called predict_future(‘Year’, ‘Month’ , ‘Laptop/Desktop’ , ‘Type_of_Customers?’ , ‘Coming from’ , ‘Place_in_India’) which, when called, would perform the following activity:
+●	A function called predict_future(‘Year’, ‘Month’ , ‘Laptop/Desktop’ , ‘Type_of_Customers?’ , ‘Coming from’ , ‘Place_in_India’) which, when called, would perform the following activity:
 
-1.	Predict “Level 4” future values for the next 1 year, given the parameters of the function. (Please make sure the parameters have default values in place) Also, plot it.
+1.	Predict and plot “Level 4” future values for the next 1 year, given the parameters of the function. 
 
 2.	Generates the MAPE and RMSE of your prediction of the year 2022, 2021 & 2020 for the given parameters.
 
@@ -65,7 +65,7 @@ Like, (“Level 1” – “Level 4”) / “Level 1” * 100
 
 # Part 5: Visualization
 
-●	Write a code to display the following 6 graphs:
+●	Code to display the following 6 graphs:
 
 1.	A line graph for “Level 2” for the different “Place_in_India?” over the months of the year 2020 & 2021.
  
@@ -79,6 +79,6 @@ Like, (“Level 1” – “Level 4”) / “Level 1” * 100
 
 6.	A well visualized bar graph showing the “Level 1” from various places in India , also, representing the type of customers, for the year 2022.
 
-7.	Please add any insights you could derive from all the graphs above. 
+
 
 
